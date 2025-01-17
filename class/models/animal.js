@@ -13,7 +13,9 @@ class Animal {
 }
 
 class Mamalia extends Animal {
-    constructor(name, type, habitat) {
-        super(name, type, habitat)
-    }
+
+
 }
+
+module.exports = Mamalia
+
